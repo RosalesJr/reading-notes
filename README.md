@@ -1,8 +1,4 @@
-# My Reading Notes Journal!
-
-
-
-##  **This is where I'm going to store my reading notes.** 
+# My Reading Notes!
 
 
 
