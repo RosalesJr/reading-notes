@@ -10,4 +10,4 @@ Growth Mindset is my own perception of my abilities. i can keep moving forwad
 
 
 
-my github portfolio lives here: https://github.com/RosalesJr
+my github portfolio lives here: [https://github.com/RosalesJr](https://github.com/RosalesJr)
