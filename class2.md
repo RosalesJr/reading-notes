@@ -1,11 +1,12 @@
 # Class 2 Reading Notes
 
-
 ## Text Editors
+
 A Text Editor is a software you download to write and edit your code when creating a website. Choosing a Text Editor can be one of the most **important** decisions a coder has to make when first starting out.
 
 **Some features that make a great Text Editor are:**
-- *Code Completion-* a feature that displays suggestions as you type(like in a phone) 
+
+- *Code Completion-* a feature that displays suggestions as you type(like in a phone)
 
 - *Syntax Highlighting-* a feature that makes looking at code easier by changing the color of different elements
 
@@ -14,8 +15,11 @@ A Text Editor is a software you download to write and edit your code when creati
 - *Themes-* be able to customize your background to your liking
 
 ## The Command Line
+
 The Command Line or terminal is a text based interface for your computer. In which you type commands to navigate. Some common commands are:
-* PWD- tells you what your current or present working directory is
+
+- PWD- tells you what your current or present working directory is
+
 * LS- list
 * CD- change directory
 * MKDIR- make directory
