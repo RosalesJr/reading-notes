@@ -10,7 +10,6 @@
 
 - ###- 3 header(smallest header)
 
--  **- *italicize* 
+- **- *italicize*
 
-- ** ** - **bold**
-
+- **** - **bold**
