@@ -1,0 +1,5 @@
+# CLASS FOUR READING NOTES
+
+## WIREFRAME AND DESIGN
+
+Wireframe is used 
