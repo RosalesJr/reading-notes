@@ -21,27 +21,27 @@ HTML is a markup language that is basically the structure of your content. Think
 
 In programing, Semantics refers to the meaning of a piece of code. It is more about what effect or purpose a line or element have instead of what does it look like. some examples of semantic elements:
 
-- <article>
+- < article >
 
-- <aside>
+- < aside >
 
-- <details>
+- < details>
 
-- <figcaption>
+- < figcaption >
 
-- <figure>
+- < figure >
 
-- <footer>
+- < footer >
 
-- <header>
-- <main>
+- < header >
+- < main >
 
-- <mark>
+- < mark >
 
-- <nav>
+- < nav >
 
-- <section>
+- < section >
 
-- <summary>
+- < summary >
 
-- <time>
+- < time >
