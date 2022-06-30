@@ -11,5 +11,6 @@ I am Luis Rosales. Born and raised in Los Angeles, California. I'm currently 26 
 - [GROWTH MINDSET](https://rosalesjr.github.io/reading-notes/growthmindset)
 - [CLASS 5 NOTES](https://rosalesjr.github.io/reading-notes/class5)
 - [CLASS 6 NOTES](https://rosalesjr.github.io/reading-notes/class6)
+- [CLASS 7 NOTES](https://rosalesjr.github.io/reading-notes/class7)
 
 ***I am Luis Rosales and my github portfolio lives here:*** [ROSALES GIT HUB](https://github.com/RosalesJr)
