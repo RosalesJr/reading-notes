@@ -4,10 +4,12 @@ I am Luis Rosales. Born and raised in Los Angeles, California. I'm currently 26 
 
 ## Table of Contents
 
-[CLASS2NOTES](https://rosalesjr.github.io/reading-notes/class2)
+[CLASS 2 NOTES](https://rosalesjr.github.io/reading-notes/class2)
+[CLASS 3 NOTES](https://rosalesjr.github.io/reading-notes/class3)
+[CLASS 4 NOTES](https://rosalesjr.github.io/reading-notes/class4)
+[MARKDOWN](https://rosalesjr.github.io/reading-notes/Markdown)
+[GROWTH MINDSET](https://rosalesjr.github.io/reading-notes/growthmindset)
+[CLASS 5 NOTES](https://rosalesjr.github.io/reading-notes/class5)
+[CLASS 6 NOTES](https://rosalesjr.github.io/reading-notes/class6)
 
-
-
-
-
-***I am Luis Rosales and my github portfolio lives here:*** [https://github.com/RosalesJr](https://github.com/RosalesJr)
+***I am Luis Rosales and my github portfolio lives here:*** [ROSALES GIT HUB](https://github.com/RosalesJr)
