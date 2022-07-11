@@ -107,8 +107,6 @@ The semantic HTML tags help the search engines and other user devices to determi
 
 You can add JavaScript in an HTML document by using the dedicated HTML tag < script> that wraps around the JavaScript. The < script> tag can be placed in the < head> section of your HTML or in the < body> section, depending on when you want the JavaScript to load.
 
-### Things I want to know more about:
-
 ### Sources:
 
 - [HOW THE WEB WORKS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
@@ -118,3 +116,5 @@ You can add JavaScript in an HTML document by using the dedicated HTML tag < scr
 - [SEMANTICS](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [WHAT IS JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 - [HOT TO START AND DESIGN MY WEBSITE](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
+
+### Things I want to know more about:
