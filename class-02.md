@@ -94,7 +94,7 @@ You would use a **else if** when you want extra choices to your **if** and **els
 
 - What is the difference between the logical operator && and ||?
 - && — allows you to chain together expressions but all of them have to individually evaluate to be true for the whole expression to return true.
-- || — allows you to chain together expressions but one or more of the expressions have to individually evaluate to be true for the whole expression to return true.
+- | |  — allows you to chain together expressions but one or more of the expressions have to individually evaluate to be true for the whole expression to return true.
 
 ### Sources:
 
