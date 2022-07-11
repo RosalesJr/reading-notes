@@ -92,9 +92,9 @@ You would use a **else if** when you want extra choices to your **if** and **els
 4. <=: less than or equal to
 5. =>: greater than or equal to
 
-- What is the difference between the logical operator && and ||?
+- What is the difference between the logical operator && and |or|
 - && — allows you to chain together expressions but all of them have to individually evaluate to be true for the whole expression to return true.
-- | |  — allows you to chain together expressions but one or more of the expressions have to individually evaluate to be true for the whole expression to return true.
+- |or|- allows you to chain together expressions but one or more of the expressions have to individually evaluate to be true for the whole expression to return true.
 
 ### Sources:
 
