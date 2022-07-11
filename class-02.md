@@ -92,9 +92,9 @@ You would use a **else if** when you want extra choices to your **if** and **els
 4. <=: less than or equal to
 5. =>: greater than or equal to
 
-- What is the difference between the logical operator && and |or|
+- What is the difference between the logical operator && and or
 - && — allows you to chain together expressions but all of them have to individually evaluate to be true for the whole expression to return true.
-- |or|- allows you to chain together expressions but one or more of the expressions have to individually evaluate to be true for the whole expression to return true.
+- or - allows you to chain together expressions but one or more of the expressions have to individually evaluate to be true for the whole expression to return true.
 
 ### Sources:
 
@@ -103,4 +103,4 @@ You would use a **else if** when you want extra choices to your **if** and **els
 - [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [Making Decisions In Your Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
-### Things I want to know more about
+### Things I want to know more about:
