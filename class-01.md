@@ -111,10 +111,10 @@ You can add JavaScript in an HTML document by using the dedicated HTML tag < scr
 
 ### Sources:
 
-[HOW THE WEB WORKS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-[WEBSITE AND DESIGN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
-[JAVASCRIPT BASICS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-[INTRODUCTION TO HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-[SEMANTICS](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-[WHAT IS JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-[HOT TO START AND DESIGN MY WEBSITE](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
+- [HOW THE WEB WORKS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+- [WEBSITE AND DESIGN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [JAVASCRIPT BASICS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [INTRODUCTION TO HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- [SEMANTICS](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [WHAT IS JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+- [HOT TO START AND DESIGN MY WEBSITE](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
