@@ -18,6 +18,6 @@ I am Luis Rosales. Born and raised in Los Angeles, California. I'm currently 26 
 
 ### **Class 201 Reading Notes**
 
-- Class 1 Notes
+- [Class 1 Notes](https://rosalesjr.github.io/reading-notes/class-01)
 
 ***I am Luis Rosales and my github portfolio lives here:*** [ROSALES GIT HUB](https://github.com/RosalesJr)
