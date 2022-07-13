@@ -51,7 +51,7 @@ Yes it is and you can access the value by calling people. Example: console.log(p
 - Remainder Assignment: x %= f() which means x = x % f()
 
 - **Read the code below and evaluate the last expression and explain what the result would be and why.**
-Result would be false because of the value of C
+Result would 10dog because c is 0.
 
 - **Describe a real world example of when a conditional statement should be used in a JavaScript program.**
 To determine age of indviduals and if they are adults or kids
